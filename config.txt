@@ -1,2 +1,5 @@
 - name: Boryana
 - city: Plovdiv
+
+- name: Svetlozar
+- city: Plovdiv
